@@ -2,10 +2,10 @@
   "name": "backend-upd",
   "version": "1.0.0",
   "description": "A backend aim at my first learning",
-  "type" : "module",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "dev" : "nodemon src/index.js"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "javascript",
@@ -14,6 +14,7 @@
   "author": "Shaswat Mishra",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.10"
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
   }
 }
